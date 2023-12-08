@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Job-assignment-react/static/css/main.4355ebb0.css",
-    "main.js": "/Job-assignment-react/static/js/main.39235fb6.js",
-    "static/js/787.59b54d88.chunk.js": "/Job-assignment-react/static/js/787.59b54d88.chunk.js",
-    "static/media/Cohorts.png": "/Job-assignment-react/static/media/Cohorts.673839cf72c1fd3ea7a5.png",
-    "static/media/Eye.svg": "/Job-assignment-react/static/media/Eye.c16bddd506946a73b59f977e3ca43698.svg",
-    "static/media/Bell.svg": "/Job-assignment-react/static/media/Bell.ea1d11391218129af2aefc534d82e0c7.svg",
-    "static/media/Vector.svg": "/Job-assignment-react/static/media/Vector.4315503ded6a4bcd7a35a33da162a8a1.svg",
-    "index.html": "/Job-assignment-react/index.html",
-    "static/media/bluela.svg": "/Job-assignment-react/static/media/bluela.2a0c28da2869035509528e913999e063.svg",
-    "main.4355ebb0.css.map": "/Job-assignment-react/static/css/main.4355ebb0.css.map",
-    "main.39235fb6.js.map": "/Job-assignment-react/static/js/main.39235fb6.js.map",
-    "787.59b54d88.chunk.js.map": "/Job-assignment-react/static/js/787.59b54d88.chunk.js.map"
+    "main.css": "/loch/static/css/main.4355ebb0.css",
+    "main.js": "/loch/static/js/main.5656a101.js",
+    "static/js/787.59b54d88.chunk.js": "/loch/static/js/787.59b54d88.chunk.js",
+    "static/media/Cohorts.png": "/loch/static/media/Cohorts.673839cf72c1fd3ea7a5.png",
+    "static/media/Eye.svg": "/loch/static/media/Eye.c16bddd506946a73b59f977e3ca43698.svg",
+    "static/media/Bell.svg": "/loch/static/media/Bell.ea1d11391218129af2aefc534d82e0c7.svg",
+    "static/media/Vector.svg": "/loch/static/media/Vector.4315503ded6a4bcd7a35a33da162a8a1.svg",
+    "index.html": "/loch/index.html",
+    "static/media/bluela.svg": "/loch/static/media/bluela.2a0c28da2869035509528e913999e063.svg",
+    "main.4355ebb0.css.map": "/loch/static/css/main.4355ebb0.css.map",
+    "main.5656a101.js.map": "/loch/static/js/main.5656a101.js.map",
+    "787.59b54d88.chunk.js.map": "/loch/static/js/787.59b54d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4355ebb0.css",
-    "static/js/main.39235fb6.js"
+    "static/js/main.5656a101.js"
   ]
 }
